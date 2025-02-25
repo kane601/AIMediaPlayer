@@ -1,9 +1,9 @@
 {
   "profiles": {
-    "LLPlayer": {
+    "AIMediaPlayer": {
       "commandName": "Project"
     },
-    "LLPlayer native": {
+    "AIMediaPlayer native": {
       "commandName": "Project",
       "nativeDebugging": true
     }

@@ -3,9 +3,9 @@ using System.Diagnostics;
 using System.Diagnostics.CodeAnalysis;
 using System.Windows;
 using System.Windows.Controls;
-using LLPlayer.Extensions;
+using AIMediaPlayer.Extensions;
 
-namespace LLPlayer.Controls.Settings;
+namespace AIMediaPlayer.Controls.Settings;
 
 public partial class SettingsAbout : UserControl
 {

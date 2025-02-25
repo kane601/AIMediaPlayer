@@ -1,9 +1,9 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
-using LLPlayer.Controls.Settings;
-using LLPlayer.ViewModels;
+using AIMediaPlayer.Controls.Settings;
+using AIMediaPlayer.ViewModels;
 
-namespace LLPlayer.Views;
+namespace AIMediaPlayer.Views;
 
 public partial class SettingsDialog : UserControl
 {

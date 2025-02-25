@@ -2,7 +2,7 @@
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace LLPlayer.Controls.Settings;
+namespace AIMediaPlayer.Controls.Settings;
 
 public partial class SettingsVideo : UserControl
 {

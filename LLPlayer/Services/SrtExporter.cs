@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Text;
 
-namespace LLPlayer.Services;
+namespace AIMediaPlayer.Services;
 
 public static class SrtExporter
 {

@@ -2,9 +2,9 @@
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
-using LLPlayer.ViewModels;
+using AIMediaPlayer.ViewModels;
 
-namespace LLPlayer.Views;
+namespace AIMediaPlayer.Views;
 
 public partial class CheatSheetDialog : UserControl
 {

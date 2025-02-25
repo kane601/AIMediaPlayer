@@ -6,11 +6,11 @@ using System.Windows;
 using System.Windows.Controls;
 using Windows.Media.Ocr;
 using FlyleafLib;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
-using LLPlayer.Views;
+using AIMediaPlayer.Extensions;
+using AIMediaPlayer.Services;
+using AIMediaPlayer.Views;
 
-namespace LLPlayer.Controls.Settings;
+namespace AIMediaPlayer.Controls.Settings;
 
 public partial class SettingsSubtitlesOCR : UserControl
 {

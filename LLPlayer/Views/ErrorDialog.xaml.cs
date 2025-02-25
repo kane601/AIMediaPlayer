@@ -1,9 +1,9 @@
 ﻿using System.Windows;
-using LLPlayer.ViewModels;
+using AIMediaPlayer.ViewModels;
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace LLPlayer.Views;
+namespace AIMediaPlayer.Views;
 
 public partial class ErrorDialog : UserControl
 {

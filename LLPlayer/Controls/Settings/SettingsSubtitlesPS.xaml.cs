@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace LLPlayer.Controls.Settings;
+namespace AIMediaPlayer.Controls.Settings;
 
 public partial class SettingsSubtitlesPS : UserControl
 {

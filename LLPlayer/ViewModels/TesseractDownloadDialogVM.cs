@@ -4,9 +4,9 @@ using System.IO;
 using System.Net.Http;
 using System.Windows;
 using FlyleafLib;
-using LLPlayer.Extensions;
+using AIMediaPlayer.Extensions;
 
-namespace LLPlayer.ViewModels;
+namespace AIMediaPlayer.ViewModels;
 
 // TODO: L: consider commonization with WhisperDownloadDialogVM
 public class TesseractDownloadDialogVM : Bindable, IDialogAware

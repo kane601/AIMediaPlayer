@@ -3,13 +3,13 @@ using System.Windows.Data;
 using System.Windows.Input;
 using System.Windows.Media;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Converters;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using AIMediaPlayer.Converters;
+using AIMediaPlayer.Extensions;
+using AIMediaPlayer.Services;
 using MaterialDesignColors.Recommended;
 using KeyBinding = FlyleafLib.MediaPlayer.KeyBinding;
 
-namespace LLPlayer.ViewModels;
+namespace AIMediaPlayer.ViewModels;
 
 public class CheatSheetDialogVM : Bindable, IDialogAware
 {

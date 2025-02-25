@@ -6,10 +6,10 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Media;
-using LLPlayer.Services;
+using AIMediaPlayer.Services;
 using MaterialDesignThemes.Wpf;
 
-namespace LLPlayer.Controls.Settings;
+namespace AIMediaPlayer.Controls.Settings;
 
 // TODO: L: separate vm from usercontrol
 public partial class SettingsThemes : UserControl, INotifyPropertyChanged

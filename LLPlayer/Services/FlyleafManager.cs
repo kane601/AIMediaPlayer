@@ -4,7 +4,7 @@ using FlyleafLib;
 using FlyleafLib.Controls.WPF;
 using FlyleafLib.MediaPlayer;
 
-namespace LLPlayer.Services;
+namespace AIMediaPlayer.Services;
 
 public class FlyleafManager
 {

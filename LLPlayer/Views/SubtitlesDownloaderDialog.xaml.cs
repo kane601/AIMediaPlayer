@@ -1,8 +1,8 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
-using LLPlayer.ViewModels;
+using AIMediaPlayer.ViewModels;
 
-namespace LLPlayer.Views;
+namespace AIMediaPlayer.Views;
 
 public partial class SubtitlesDownloaderDialog : UserControl
 {

@@ -4,7 +4,7 @@ using System.Windows.Data;
 using System.Windows.Input;
 using System.Windows.Media;
 
-namespace LLPlayer.Converters;
+namespace AIMediaPlayer.Converters;
 [ValueConversion(typeof(bool), typeof(bool))]
 public class InvertBooleanConverter : IValueConverter
 {

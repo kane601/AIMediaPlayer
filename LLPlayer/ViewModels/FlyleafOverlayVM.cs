@@ -3,12 +3,12 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using FlyleafLib;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using AIMediaPlayer.Extensions;
+using AIMediaPlayer.Services;
 using MaterialDesignThemes.Wpf;
 using static FlyleafLib.Utils.NativeMethods;
 
-namespace LLPlayer.ViewModels;
+namespace AIMediaPlayer.ViewModels;
 
 public class FlyleafOverlayVM : Bindable
 {

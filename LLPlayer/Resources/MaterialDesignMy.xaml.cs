@@ -2,7 +2,7 @@
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace LLPlayer.Resources;
+namespace AIMediaPlayer.Resources;
 
 public partial class MaterialDesignMy : ResourceDictionary
 {

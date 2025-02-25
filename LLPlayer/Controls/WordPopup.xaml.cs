@@ -10,10 +10,10 @@ using FlyleafLib;
 using FlyleafLib.MediaPlayer;
 using FlyleafLib.MediaPlayer.Translation;
 using FlyleafLib.MediaPlayer.Translation.Services;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using AIMediaPlayer.Extensions;
+using AIMediaPlayer.Services;
 
-namespace LLPlayer.Controls;
+namespace AIMediaPlayer.Controls;
 
 public partial class WordPopup : UserControl, INotifyPropertyChanged
 {

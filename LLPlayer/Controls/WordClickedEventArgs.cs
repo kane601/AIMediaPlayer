@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace LLPlayer.Controls;
+namespace AIMediaPlayer.Controls;
 
 public class WordClickedEventArgs(RoutedEvent args) : RoutedEventArgs(args)
 {

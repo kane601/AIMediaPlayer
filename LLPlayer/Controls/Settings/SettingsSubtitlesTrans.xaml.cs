@@ -4,10 +4,10 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using FlyleafLib.MediaPlayer.Translation;
 using FlyleafLib.MediaPlayer.Translation.Services;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using AIMediaPlayer.Extensions;
+using AIMediaPlayer.Services;
 
-namespace LLPlayer.Controls.Settings;
+namespace AIMediaPlayer.Controls.Settings;
 
 public partial class SettingsSubtitlesTrans : UserControl
 {

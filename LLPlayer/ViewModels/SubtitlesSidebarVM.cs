@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel;
 using FlyleafLib;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using AIMediaPlayer.Extensions;
+using AIMediaPlayer.Services;
 
-namespace LLPlayer.ViewModels;
+namespace AIMediaPlayer.ViewModels;
 
 public class SubtitlesSidebarVM : Bindable, IDisposable
 {

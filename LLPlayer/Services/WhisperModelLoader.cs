@@ -2,7 +2,7 @@
 using FlyleafLib;
 using Whisper.net.Ggml;
 
-namespace LLPlayer.Services;
+namespace AIMediaPlayer.Services;
 
 public class WhisperModelLoader
 {

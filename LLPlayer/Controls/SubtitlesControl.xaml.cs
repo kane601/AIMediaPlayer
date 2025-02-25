@@ -2,9 +2,9 @@
 using System.Windows;
 using System.Windows.Controls;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Services;
+using AIMediaPlayer.Services;
 
-namespace LLPlayer.Controls;
+namespace AIMediaPlayer.Controls;
 
 public partial class SubtitlesControl : UserControl
 {

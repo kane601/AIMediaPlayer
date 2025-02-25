@@ -4,12 +4,12 @@ using System.Diagnostics;
 using System.Windows;
 using System.Windows.Controls;
 using FlyleafLib;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
-using LLPlayer.Views;
+using AIMediaPlayer.Extensions;
+using AIMediaPlayer.Services;
+using AIMediaPlayer.Views;
 using Whisper.net.LibraryLoader;
 
-namespace LLPlayer.Controls.Settings;
+namespace AIMediaPlayer.Controls.Settings;
 
 public partial class SettingsSubtitlesASR : UserControl
 {

@@ -4,7 +4,7 @@ using System.Windows.Data;
 using System.Windows.Media.Imaging;
 using FlyleafLib.MediaPlayer;
 
-namespace LLPlayer.Converters;
+namespace AIMediaPlayer.Converters;
 
 public class WidthPercentageMultiConverter : IMultiValueConverter
 {

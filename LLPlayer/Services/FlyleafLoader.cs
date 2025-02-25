@@ -3,7 +3,7 @@ using System.Windows;
 using FlyleafLib;
 using FlyleafLib.MediaPlayer;
 
-namespace LLPlayer.Services;
+namespace AIMediaPlayer.Services;
 
 public static class FlyleafLoader
 {

@@ -1,7 +1,7 @@
-﻿using LLPlayer.Extensions;
-using LLPlayer.Services;
+﻿using AIMediaPlayer.Extensions;
+using AIMediaPlayer.Services;
 
-namespace LLPlayer.ViewModels;
+namespace AIMediaPlayer.ViewModels;
 
 public class SettingsDialogVM : Bindable, IDialogAware
 {

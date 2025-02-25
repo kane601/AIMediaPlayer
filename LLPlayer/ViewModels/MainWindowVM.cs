@@ -5,11 +5,11 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shell;
 using FlyleafLib;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using AIMediaPlayer.Extensions;
+using AIMediaPlayer.Services;
 using InputType = FlyleafLib.InputType;
 
-namespace LLPlayer.ViewModels;
+namespace AIMediaPlayer.ViewModels;
 
 public class MainWindowVM : Bindable
 {

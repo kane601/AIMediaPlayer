@@ -7,12 +7,12 @@ using System.Windows.Input;
 using System.Windows.Media;
 using FlyleafLib;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Extensions;
-using LLPlayer.Views;
+using AIMediaPlayer.Extensions;
+using AIMediaPlayer.Views;
 using WpfColorFontDialog;
 using KeyBinding = FlyleafLib.MediaPlayer.KeyBinding;
 
-namespace LLPlayer.Services;
+namespace AIMediaPlayer.Services;
 
 public class AppActions
 {

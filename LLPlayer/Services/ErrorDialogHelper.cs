@@ -1,8 +1,8 @@
 ﻿using System.Windows;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Views;
+using AIMediaPlayer.Views;
 
-namespace LLPlayer.Services;
+namespace AIMediaPlayer.Services;
 
 public static class ErrorDialogHelper
 {

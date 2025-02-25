@@ -6,10 +6,10 @@ using System.Windows.Input;
 using System.Windows.Media;
 using FlyleafLib;
 using FlyleafLib.MediaFramework.MediaDemuxer;
-using LLPlayer.Services;
+using AIMediaPlayer.Services;
 using Microsoft.Xaml.Behaviors;
 
-namespace LLPlayer.Controls;
+namespace AIMediaPlayer.Controls;
 
 public partial class FlyleafBar : UserControl
 {

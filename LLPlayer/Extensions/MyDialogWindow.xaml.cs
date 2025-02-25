@@ -1,7 +1,7 @@
 ﻿using System.Windows;
-using LLPlayer.Views;
+using AIMediaPlayer.Views;
 
-namespace LLPlayer.Extensions;
+namespace AIMediaPlayer.Extensions;
 
 public partial class MyDialogWindow : Window, IDialogWindow
 {

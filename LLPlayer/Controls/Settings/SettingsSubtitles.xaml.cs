@@ -2,10 +2,10 @@
 using System.Windows.Controls;
 using FlyleafLib;
 using FlyleafLib.MediaPlayer.Translation;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using AIMediaPlayer.Extensions;
+using AIMediaPlayer.Services;
 
-namespace LLPlayer.Controls.Settings;
+namespace AIMediaPlayer.Controls.Settings;
 
 public partial class SettingsSubtitles : UserControl
 {

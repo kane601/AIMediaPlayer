@@ -9,13 +9,13 @@ using System.Windows.Media;
 using FlyleafLib;
 using FlyleafLib.MediaPlayer;
 using FlyleafLib.MediaPlayer.Translation.Services;
-using LLPlayer.Extensions;
+using AIMediaPlayer.Extensions;
 using MaterialDesignThemes.Wpf;
 using Color = System.Windows.Media.Color;
 using Colors = System.Windows.Media.Colors;
 using Size = System.Windows.Size;
 
-namespace LLPlayer.Services;
+namespace AIMediaPlayer.Services;
 
 public class AppConfig : Bindable
 {

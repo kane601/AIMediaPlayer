@@ -2,7 +2,7 @@
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace LLPlayer.Controls;
+namespace AIMediaPlayer.Controls;
 
 public class SelectableTextBox : TextBox
 {

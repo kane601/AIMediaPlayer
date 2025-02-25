@@ -4,11 +4,11 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Input;
 using System.Windows.Media;
-using LLPlayer.Extensions;
-using LLPlayer.ViewModels;
-using LLPlayer.Views;
+using AIMediaPlayer.Extensions;
+using AIMediaPlayer.ViewModels;
+using AIMediaPlayer.Views;
 
-namespace LLPlayer.Controls;
+namespace AIMediaPlayer.Controls;
 
 public partial class SelectableSubtitleText : UserControl
 {

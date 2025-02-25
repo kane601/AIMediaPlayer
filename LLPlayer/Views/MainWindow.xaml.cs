@@ -1,10 +1,10 @@
 ﻿using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Interop;
-using LLPlayer.Services;
-using LLPlayer.ViewModels;
+using AIMediaPlayer.Services;
+using AIMediaPlayer.ViewModels;
 
-namespace LLPlayer.Views;
+namespace AIMediaPlayer.Views;
 
 public partial class MainWindow : Window
 {

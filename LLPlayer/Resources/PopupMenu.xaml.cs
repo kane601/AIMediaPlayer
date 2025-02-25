@@ -1,8 +1,8 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
-using LLPlayer.ViewModels;
+using AIMediaPlayer.ViewModels;
 
-namespace LLPlayer.Resources;
+namespace AIMediaPlayer.Resources;
 
 public partial class PopupMenu : ResourceDictionary
 {

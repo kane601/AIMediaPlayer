@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using static FlyleafLib.Utils;
 
-namespace LLPlayer.Extensions;
+namespace AIMediaPlayer.Extensions;
 
 public static class FileHelper
 {

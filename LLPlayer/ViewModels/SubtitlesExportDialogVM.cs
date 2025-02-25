@@ -3,11 +3,11 @@ using System.IO;
 using System.Diagnostics.CodeAnalysis;
 using System.Text;
 using FlyleafLib.MediaPlayer;
-using LLPlayer.Extensions;
-using LLPlayer.Services;
+using AIMediaPlayer.Extensions;
+using AIMediaPlayer.Services;
 using SaveFileDialog = Microsoft.Win32.SaveFileDialog;
 
-namespace LLPlayer.ViewModels;
+namespace AIMediaPlayer.ViewModels;
 
 public class SubtitlesExportDialogVM : Bindable, IDialogAware
 {
