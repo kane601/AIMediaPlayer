@@ -6,14 +6,14 @@
     <LangVersion>latest</LangVersion>
     <AssemblyName>WpfColorFontDialog</AssemblyName>
     <RootNamespace>WpfColorFontDialog</RootNamespace>
-    <Copyright>Copyright ©  2015</Copyright>
+    <Copyright>Copyright ©  2025</Copyright>
     <Version>1.0.8.0</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageReleaseNotes>Added .NET Core 3.1 support.</PackageReleaseNotes>
-    <RepositoryUrl>https://github.com/sskodje/WpfColorFont/</RepositoryUrl>
-    <PackageProjectUrl>https://github.com/sskodje/WpfColorFont/</PackageProjectUrl>
+    <RepositoryUrl>https://www.donemax.com/</RepositoryUrl>
+    <PackageProjectUrl>https://www.donemax.com/</PackageProjectUrl>
     <Description>A wpf color and font picker.</Description>
-    <Authors>Sverre Kristoffer Skodje</Authors>
+    <Authors>donemax</Authors>
     <Company></Company>
     <PackageTags>wpf font dialog color</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>

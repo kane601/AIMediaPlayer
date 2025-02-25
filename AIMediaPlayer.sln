@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.35213.121
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LLPlayer", "LLPlayer\LLPlayer.csproj", "{DA75ED0F-6A7C-45BD-AA57-442FCA088F23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIMediaPlayer", "LLPlayer\AIMediaPlayer.csproj", "{DA75ED0F-6A7C-45BD-AA57-442FCA088F23}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlyleafLib", "FlyleafLib\FlyleafLib.csproj", "{38809EE7-E9E3-46FF-965B-5F79462B1A09}"
 EndProject

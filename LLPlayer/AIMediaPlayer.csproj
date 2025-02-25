@@ -7,12 +7,12 @@
     <LangVersion>preview</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
-    <Authors>umlx5h</Authors>
-    <Copyright>umlx5h © 2025</Copyright>
+    <Authors>donemax</Authors>
+    <Copyright>donemax © 2025</Copyright>
     <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
-    <ApplicationIcon>LLPlayer.ico</ApplicationIcon>
+    <ApplicationIcon>AIMediaPlayer.ico</ApplicationIcon>
     <Description>The media player for language learning.</Description>
-    <PackageProjectUrl>https://llplayer.com</PackageProjectUrl>
+    <PackageProjectUrl>https://www.donemax.com/</PackageProjectUrl>
     <Version>0.1.2</Version>
   </PropertyGroup>
 
