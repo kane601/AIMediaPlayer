@@ -568,10 +568,13 @@ public class AppConfigTheme : Bindable
             if (Set(ref field, value))
             {
                 Theme cur = _paletteHelper.GetTheme();
-                cur.SetPrimaryColor(value);
+                cur.SetPrimaryColor(Color.FromArgb(255, 255, 255, 255));
+                //todo-qiao
+                //cur.SetPrimaryColor(value);
                 _paletteHelper.SetTheme(cur);
             }
         }
+    //} = (Color)ColorConverter.ConvertFromString("#FFFFFF"); // Pink
     } = (Color)ColorConverter.ConvertFromString("#E91E63"); // Pink
 
     public Color SecondaryColor

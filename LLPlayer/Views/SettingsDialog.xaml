@@ -111,7 +111,7 @@
                             FontSize="14"
                             FontWeight="Normal" />
                     </TreeViewItem>
-
+                    <!--todo-qiao-hide:
                     <TreeViewItem Tag="SettingsThemes">
                         <TreeViewItem.Header>
                             <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
@@ -121,6 +121,7 @@
                         </TreeViewItem.Header>
                     </TreeViewItem>
 
+                    
                     <TreeViewItem Tag="SettingsPlugins">
                         <TreeViewItem.Header>
                             <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
@@ -129,6 +130,7 @@
                             </StackPanel>
                         </TreeViewItem.Header>
                     </TreeViewItem>
+                      -->
 
                     <TreeViewItem Tag="SettingsAbout">
                         <TreeViewItem.Header>

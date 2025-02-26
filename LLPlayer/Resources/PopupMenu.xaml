@@ -580,15 +580,15 @@ AncestorType={x:Type MenuItem}}}">
                 <MenuItem Header="Zoom out"  Command="{Binding FL.Player.Commands.ZoomOut}" Icon="{materialDesign:PackIcon Kind=ZoomOut}"/>
             </MenuItem>
         </MenuItem>
-
+        <!--todo-qiao-hide
         <MenuItem Header="App" Icon="{materialDesign:PackIcon ApplicationExport}">
             <MenuItem Header="Launch New App" Command="{Binding FL.Action.CmdAppNew}" Icon="{materialDesign:PackIcon Kind=Launch}"/>
             <MenuItem Header="Exit App" Command="{Binding FL.Action.CmdAppExit}" Icon="{materialDesign:PackIcon Kind=ExitToApp}"/>
             <MenuItem Header="Restart App" Command="{Binding FL.Action.CmdAppRestart}" Icon="{materialDesign:PackIcon Kind=Restart}"/>
         </MenuItem>
-
+        -->
         <Separator />
-        <MenuItem Header="Show Debug" IsCheckable="True" IsChecked="{Binding FL.Config.ShowDebug}"/>
+        <!--todo-qiao-hide:<MenuItem Header="Show Debug" IsCheckable="True" IsChecked="{Binding FL.Config.ShowDebug}"/>-->
         <MenuItem Header="Cheat Sheet" Command="{Binding FL.Action.CmdOpenWindowCheatSheet}" Icon="{materialDesign:PackIcon Kind=Help}" />
     </ContextMenu>
 

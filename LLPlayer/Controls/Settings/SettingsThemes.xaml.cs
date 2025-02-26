@@ -39,6 +39,7 @@ public partial class SettingsThemes : UserControl, INotifyPropertyChanged
                 {
                     case ColorScheme.Primary:
                         FL.Config.Theme.PrimaryColor = value;
+                        //FL.Config.Theme.PrimaryColor = Color.FromArgb(255, 255, 255, 255); ;
                         break;
 
                     case ColorScheme.Secondary:
